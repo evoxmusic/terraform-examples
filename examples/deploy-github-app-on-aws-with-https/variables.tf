@@ -14,6 +14,3 @@ variable "aws_secret_access_key" {
   type = string
 }
 
-variable "toto_secret" {
-  type    = string
-}
